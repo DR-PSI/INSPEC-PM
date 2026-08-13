@@ -6,7 +6,7 @@
 // - Bump CACHE_NAME whenever index.html changes, so users get the new
 //   version instead of a stale cached one.
 
-const CACHE_NAME = 'asset-inspection-v2';
+const CACHE_NAME = 'asset-inspection-v3';
 
 const STATIC_ASSETS = [
   './',
